@@ -5,7 +5,7 @@
     Una equazione si dice lineare se compaiono tutte le varabili con grado 
     massimo uguale ad 1 e non sono presenti prodotti tra variabili
 
----
+
 
 ## **Definizione `sistema lineare`** :
 
