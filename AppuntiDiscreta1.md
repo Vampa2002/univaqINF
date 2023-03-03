@@ -22,7 +22,7 @@ Domanda `bonus`:
 
 4. Quale metodo(algoritmo) è più efficiente ? 
 
----
+
 
 ## **Associare un `sistema lineare` ad una `matrice`** :
 
@@ -54,7 +54,7 @@ Bisogna sempre tener conto dell'ordine delle variabili quando si va a creare la 
 ### `Osservazione` : 
 Dato un sistema con `n` equazioni e `m` variabili allora la matrice dei coefficienti `A` avrà `n` righe ed `m` colonne, la matrice completa `(A | b)` avrà di conseguenza una colonna in più.
 
----
+
 
 ## **Passare da una `matrice` ad un `sistema lineare`** : 
 
